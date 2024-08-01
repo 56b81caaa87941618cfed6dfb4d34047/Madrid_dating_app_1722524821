@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on implementing a bright pink top nav.",
+        "message_id": "guest01082024150810",
+        "timestamp": "01082024150811",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "repalce with a more beatitful top nav thats bright pinks",
         "message_id": "guest01082024150810",

@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the new top navigation to have a solid bright pink color or a gradient design featuring bright pink?\", \"option1\": \"Solid bright pink\", \"option2\": \"Gradient design with bright pink\"}, {\"question 2\": \"Should the new top navigation include additional interactive elements, such as hover effects or dropdown menus?\", \"option1\": \"Yes, include interactive elements like hover effects or dropdown menus\", \"option2\": \"No, keep it simple and static without additional interactive elements\"}], \"input_token_count\": 267, \"output_token_count\": 114, \"time_taken\": \"0:00:05.209356\"}",
         "timestamp": "01082024150816",
         "message_id": "guest01082024150810"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a responsive and animated top navigation bar with gradient pink colors for aesthetic appeal.\", \"checked\": true}, {\"feature\": \"Add a search bar with advanced filters (age, interests, location) in the top navigation for easy access.\", \"checked\": true}, {\"feature\": \"Incorporate a 'Quick Match' icon in the top nav that uses an algorithm to match users based on their profiles and preferences.\", \"checked\": false}, {\"feature\": \"Integrate a notifications bell in the top nav for new messages, matches, and likes notifications.\", \"checked\": true}, {\"feature\": \"Add a dropdown menu in the top navigation for account settings, preferences, and help center.\", \"checked\": true}, {\"feature\": \"Include a 'Switch to Night Mode' toggle in the top nav for a user-friendly screen-viewing experience at night.\", \"checked\": false}], \"input_token_count\": 221, \"output_token_count\": 181, \"time_taken\": \"0:00:07.111504\"}",
+        "timestamp": "01082024150818",
+        "message_id": "guest01082024150810"
     }
 ]

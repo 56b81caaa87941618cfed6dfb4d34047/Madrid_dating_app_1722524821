@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the new top navigation to have a solid bright pink color or a gradient design featuring bright pink?\", \"option1\": \"Solid bright pink\", \"option2\": \"Gradient design with bright pink\"}, {\"question 2\": \"Should the new top navigation include additional interactive elements, such as hover effects or dropdown menus?\", \"option1\": \"Yes, include interactive elements like hover effects or dropdown menus\", \"option2\": \"No, keep it simple and static without additional interactive elements\"}], \"input_token_count\": 267, \"output_token_count\": 114, \"time_taken\": \"0:00:05.209356\"}",
+        "message_id": "guest01082024150810",
+        "timestamp": "01082024150816",
+        "component_file_name": "purple_header_component_1722524822",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, working on implementing a bright pink top nav.",
         "message_id": "guest01082024150810",
